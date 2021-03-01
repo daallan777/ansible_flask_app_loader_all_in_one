@@ -1,5 +1,5 @@
 [load_balancers]
-frontend 
+frontend1 
 
 [app_servers]
 app1
